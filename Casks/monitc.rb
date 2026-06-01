@@ -1,6 +1,6 @@
 cask "monitc" do
-  version "1.0.0"
-  sha256 "621b8e8c44fd95303acd6028d04250124e67c3e2fbdc9cfaff3231fdae48c282"
+  version "1.1.0"
+  sha256 "4190a76b7f95333b914f17143fb495e034fd04aba900f9ba4c9565a3b44caa02"
 
   url "https://github.com/Rampesna/monitc/releases/download/v#{version}/monitc-#{version}-universal.dmg"
   name "monitc"
